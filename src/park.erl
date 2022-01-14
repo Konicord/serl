@@ -10,7 +10,7 @@
 %% API functions for escript
 %%====================================================================
 
-%% escript Entry point
+%% escript Entry point, start writing here.
 main(Args) ->
     io:format("Args: ~p~n", [Args]),
     erlang:halt(0).
