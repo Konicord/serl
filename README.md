@@ -1,6 +1,5 @@
 # simple-erl
-An basic example how to run OTP
-with escript.
+A small example how to run OTP with escript
 
 ## Build
 -----
